@@ -1,6 +1,6 @@
 
 - 🌱 Atualmente estou estudando Python.
-- 👯 Procurando uma oportunidade des estágio para aprender e somar!
+- 👯 Procurando uma oportunidade de estágio para aprender e somar!
 - 📫 Contato: gabrielfreitas2688@gmail.com
 
 
