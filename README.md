@@ -10,9 +10,9 @@
 <br>
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfreitas2688&show_icons=true&theme=tokyonight)](https://github.com/gabrielfreitas2688/github-readme-stats) 
+[![Anurag's GitHub stats](https://gabrielfreitas2688.vercel.app/api?username=gabrielfreitas2688&show_icons=true&theme=tokyonight)](https://github.com/gabrielfreitas2688/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfreitas2688&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://gabrielfreitas2688.vercel.app/api/top-langs/?username=gabrielfreitas2688&layout=compactshow_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
  
