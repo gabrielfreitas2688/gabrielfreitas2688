@@ -19,14 +19,7 @@
 
 <br>
 
-<div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfreitas2688&show_icons=true&locale=en&layout=compact" alt="gabrielfreitas2688" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielfreitas2688&show_icons=true&locale=en" alt="gabrielfreitas2688" /></p>
-
-
-</div>
 
 
 
